@@ -1,0 +1,6 @@
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\bin\Debug\LMS.DAL.dll.config
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\bin\Debug\LMS.DAL.dll
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\bin\Debug\LMS.DAL.pdb
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\obj\Debug\LMS.DAL.dll
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMS.DAL\obj\Debug\LMS.DAL.pdb

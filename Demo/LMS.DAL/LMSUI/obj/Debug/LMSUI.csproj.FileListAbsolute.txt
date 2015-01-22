@@ -1,0 +1,14 @@
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMSUI.exe.config
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.frmMember.resources
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.Properties.Resources.resources
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.csproj.GenerateResource.Cache
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMSUI.exe
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMSUI.pdb
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMS.BLL.dll
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMS.DAL.dll
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMS.BLL.pdb
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\bin\Debug\LMS.DAL.pdb
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.exe
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.pdb
+C:\Data\_FPT\FPoly\Khung chuong trinh\HO\Cong nghe thong tin\PRO3022\Demo\LMS.DAL\LMSUI\obj\Debug\LMSUI.frmViewMember.resources

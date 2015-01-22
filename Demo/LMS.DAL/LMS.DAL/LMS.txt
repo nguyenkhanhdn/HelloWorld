@@ -1,0 +1,50 @@
+﻿create database LMS
+go
+use LMS
+
+go
+
+create table Members
+(
+	mcode varchar(10) primary key,
+	mname nvarchar(30) not null,
+	maddress nvarchar(50) not null,
+	mphone varchar(15),
+	mregdate datetime default getdate()
+)
+go
+
+create proc uspCreateMember
+@mcode varchar(10),
+@mname nvarchar(30),
+@maddress nvarchar(50),
+@mphone varchar(15)
+as
+insert into Members(mcode,mname,maddress,mphone)
+values(@mcode,@mname,@maddress,@mphone)
+go
+create proc uspUpdateMember
+@mcode varchar(10),
+@mname nvarchar(30),
+@maddress nvarchar(50),
+@mphone varchar(15)
+as
+update Members set mname=@mname,maddress=@maddress,mphone=@mphone
+where mcode = @mcode
+go
+
+create proc uspDeleteMember
+@mcode varchar(10)
+as
+delete from Members where mcode=@mcode
+go
+	create proc uspGetMembers
+	as
+	select * from members
+go
+
+	create proc uspGetMemberByCode
+	@mcode varchar(10)
+	as
+	select * from members
+	where mcode = @mcode
